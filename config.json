@@ -1,0 +1,17 @@
+{
+  "users": {
+    "0": {},
+    "237689360833": {
+      "sudoList": [],
+      "tagAudioPath": "tag.mp3",
+      "antilink": false,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "🌹",
+      "welcome": false,
+      "record": false,
+      "type": false
+    }
+  }
+}
